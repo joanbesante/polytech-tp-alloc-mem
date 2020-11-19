@@ -8,7 +8,7 @@
  * For this to work, we expect a call to
  * mem_init(get_memory_adr(), get_memory_size())
  */
-//test pull3
+//test pull4
 #ifndef MEMORY_SIZE
 #define MEMORY_SIZE 8192
 #endif
